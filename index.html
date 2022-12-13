@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Primary Meta Tags -->
+    <title>Portfolio Template - Open source</title>
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.15.4/css/all.css"
+      integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/utilities.css" />
+  </head>
+  <body>
+    <header id="hero">
+      <!-- Navbar -->
+      <nav class="navbar">
+        <div class="container">
+          <!-- Logo -->
+          <h1 id="logo">
+          </h1>
+          <!-- Navbar links -->
+          <ul class="nav-menu">
+            <li><a class="nav-link" href="#projects">PROYECTOS</a></li>
+            <li><a class="nav-link" href="#">CONTACTO</a></li>
+            <li>
+              <a
+                class="nav-link btn btn-primary"
+                href="https://github.com/victorponz/"
+                >GitHub <i class="fas fa-arrow-right"></i
+              ></a>
+            </li>
+
+            <!-- Toggle switch -->
+            <div class="theme-switch">
+              <input type="checkbox" id="switch" />
+              <label class="toggle-icons" for="switch">
+                <img class="moon" src="assets/moon.svg" />
+                <img class="sun" src="assets/sun.svg" />
+              </label>
+            </div>
+            <!-- Hamburger menu -->
+          </ul>
+          <div class="hamburger">
+            <span class="bar"></span>
+            <span class="bar"></span>
+            <span class="bar"></span>
+          </div>
+        </div>
+      </nav>
+
+      <section class="header-container">
+        <img
+          class="profile-image"
+          src="assets/portrait.jpeg"
+          alt=""
+        />
+        <h1>Hola, soy Víctor</h1>
+
+        <div class="content-text">
+          <h2>Profesor del Ciclo Formativo Superior</h2>
+          <h2>Desarrollo de Aplicaciones Web</h2>
+
+          <p>
+           En esta web encontrarás materiales para impartir las asignaturas de Programación y Desarrollo Web en Entorno Servidor
+          </p>
+        </div>
+        <a href="mailto:victor.ponz@ieselcaminas.org" class="btn btn-secondary">Contacta conmigo</a>
+      </section>
+    </header>
+
+    <!-- Projects -->
+    <section id="projects" class="project-container container">
+      <div class="division"></div>
+      <div class="content-text">
+        <h2>Programación</h2>
+      </div>
+        <div id="card-container">
+        <div class="card-details">
+              <h1>PROGRAMACIÓN</h1>
+              <p class="information">
+                  Esta sección contiene todo el temario de la asignatura junto con los ejercicios resueltos.
+              </p>
+              <a class="btn btn-primary" href="/programacion-java">Acceder<i class="fas fa-arrow-right"></i></a>
+          </div>
+          <div class="card-image">
+              <img src="assets/logo-java.jpg" alt="">
+          </div>
+        </div>
+      <div class="division"></div>
+      <div class="content-text">
+        <h2>Desarrollo Web en Entorno Servidor</h2>
+      </div>
+        <div id="card-container">
+        <div class="card-details">
+              <h1>SYMFONY BLOG</h1>
+              <p class="information">
+                  Creación de un blog paso a paso con Symfony. 
+              </p>
+              <br/>
+              <p class="information">
+                Aprendemos acerca de controladores, rutas, plantillas, entidades, BBDD, gestión de usuarios, formularios, validaciones, subida de archivos, ...
+              </p>
+              <a class="btn btn-primary" href="/symfony-blog-teoria">Acceder<i class="fas fa-arrow-right"></i></a>
+          </div>
+          <div class="card-image">
+              <img src="assets/logo-blog.png" alt="">
+          </div>
+        </div>
+        <div id="card-container">
+        <div class="card-details">
+              <h1>SYMFONY TIENDA</h1>
+              <p class="information">
+                  Creación de un tienda virtual paso a paso con Symfony. 
+              </p>
+              <br/>
+              <p class="information">
+                Aprendemos acerca de sesiones, implementación de un carro de la compra, EasyAdmin bundle, json, servicios REST, servicios en plantillas, controladores embebidos, ...
+              </p>
+              <a class="btn btn-primary" href="/symfony-tienda-teoria">Acceder<i class="fas fa-arrow-right"></i></a>
+          </div>
+          <div class="card-image">
+              <img src="assets/logo-tienda.jpg" alt="">
+          </div>
+        </div>
+    </section>
+
+    <footer id="footer">
+      <div class="container">
+        <!-- Attribution -->
+        <div class="attribution">
+          <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+            <img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" />
+          </a>
+          <br />Todo el material de esta web está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">licencia de Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional</a>.
+
+        </div>
+        <div class="attribution">
+          <a
+            href="https://github.com/CommunityPro/portfolio-html"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img
+              src="https://user-images.githubusercontent.com/62628408/157202263-9174da24-b19a-4017-9b7c-a1d26ae8f014.svg"
+              alt="attribution"
+              width="150px"
+            />
+          </a>
+        </div>
+      </div>
+    </footer>
+    <script src="js/script.js"></script>
+  </body>
+</html>
