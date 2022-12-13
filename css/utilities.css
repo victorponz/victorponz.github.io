@@ -184,7 +184,7 @@ h2::selection {
     border-radius: 5px;
     overflow: hidden;
     margin: 5em auto;
-    min-height: 350px;
+    height: 400px;
     width: 70%;
 }
 
