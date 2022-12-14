@@ -334,3 +334,12 @@ body {
     width: 80%;
   }
 }
+  .theme-switch{
+     margin-right: 50px;;
+  }
+  .navbar, .navbar .nav-menu{
+    background-color: transparent;
+  }
+  .navbar .nav-menu.active{
+    background-color: var(--bg-primary);
+  }
