@@ -10,7 +10,7 @@
 :root {
   /* Colors */
   --primary-color: #ffcd42;
-  --secondary-color: #ffd35c;
+  --secondary-color: #ffcd42;
   --bg-primary: #ffffff;
   --text-color: #222222;
   --text-color-two: #ffffff;
@@ -33,7 +33,7 @@
 
 [data-theme="dark"] {
   --primary-color: #ffcd42;
-  --secondary-color: #ffd35c;
+  --secondary-color: #ffcd42;
   --bg-primary: #2f3334;
   --text-color: #ffffff;
   --text-color-two: #222222;
