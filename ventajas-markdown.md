@@ -16,22 +16,22 @@
 3. Puedo crear distintas cajas para resaltar texto:
 
    * Reto
-     ![reto](https://github.com/victorponz/spring-realestate-teoria/raw/master/assets/img/reto.png)
+![reto](https://github.com/victorponz/spring-realestate-teoria/raw/master/assets/img/reto.png)
 
    * Alerta
-     ![alerta](https://github.com/victorponz/spring-realestate-teoria/raw/master/assets/img/alert.png)
+![alerta](https://github.com/victorponz/spring-realestate-teoria/raw/master/assets/img/alert.png)
 
    * Información
-     ![info](https://github.com/victorponz/spring-realestate-teoria/raw/master/assets/img/info.png)
+![info](https://github.com/victorponz/spring-realestate-teoria/raw/master/assets/img/info.png)
 
    * Pista
-     ![pista](https://github.com/victorponz/spring-realestate-teoria/raw/master/assets/img/pista.png)
+![pista](https://github.com/victorponz/spring-realestate-teoria/raw/master/assets/img/pista.png)
 
    * Aviso
-     ![aviso](https://github.com/victorponz/spring-realestate-teoria/raw/master/assets/img/aviso.png)
+![aviso](https://github.com/victorponz/spring-realestate-teoria/raw/master/assets/img/aviso.png)
 
    * Toogle.
-       Puedes ver un ejemplo [aquí](https://victorponz.github.io/programacion-java/estructuras-basicas#ejercicio-14-par%C3%A9ntesis-m) y lo uso habitualmente para poner pistas ocultas
+Puedes ver un ejemplo [aquí](https://victorponz.github.io/programacion-java/estructuras-basicas#ejercicio-14-par%C3%A9ntesis-m) y lo uso habitualmente para poner pistas ocultas
        Simplemente creo una `blockquote` y le pongo un tipo. Por ejemplo:
        >-task-Lorem ipsum dolor sit amet
        >Resto de markdon
