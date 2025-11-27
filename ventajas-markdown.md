@@ -34,7 +34,8 @@
    * Aviso
 
 ![aviso](https://github.com/victorponz/spring-realestate-teoria/raw/master/assets/img/aviso.png)
-     * Toogle.
+   
+   * Toogle.
        Puedes ver un ejemplo [aquí](https://victorponz.github.io/programacion-java/estructuras-basicas#ejercicio-14-par%C3%A9ntesis-m) y lo uso habitualmente para poner pistas ocultas
        Simplemente creo una `blockquote` y le pongo un tipo. Por ejemplo:
        >-task-Lorem ipsum dolor sit amet
