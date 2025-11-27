@@ -16,9 +16,11 @@
 3. Puedo crear distintas cajas para resaltar texto:
 
    * Reto
+     
 ![reto](https://github.com/victorponz/spring-realestate-teoria/raw/master/assets/img/reto.png)
 
    * Alerta
+     
 ![alerta](https://github.com/victorponz/spring-realestate-teoria/raw/master/assets/img/alert.png)
 
    
