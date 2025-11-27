@@ -41,13 +41,14 @@
        >-task-Lorem ipsum dolor sit amet
        >Resto de markdon
    
-5. Puedo insertar código html puro, además de markdom
+5. Puedo insertar código html puro, además de markdown
 6. Puedo cambiar el look and feel de mi web con cientos de temas gratuitos o crear nuevos
 7. Puedo insertar javascript, lo que me abre la ventana a cientos de widgets:
    * Insertar vídeos, no enlaces, de YouTube
    * [asciinema](https://asciinema.org/), que me viene bien cuando quiero poner en vivo los comandos a ejecutar en la consola. Puedes ver un ejemplo en el punto 2.2 de la siguiente [página](https://victorponz.github.io/symfony-contactos-teoria/posts/object-relational-mapping/#22-creaci%C3%B3n-de-entidades).
    * [Diagramas de flujo](https://mermaid.js.org/), [matemáticas](https://www.mathjax.org/), y muchas otras cosas
-8. Y, last but not less, para mi hacer una web es lo obligado, pues imparto clases de Desarrollo Web.
+8. Índices. En mi tema, también genera automáticamente los índices de contenido de cada página, como el índice de contenido de temas. Es decir, cuando creo un documento y le asigno un tema, automáticamente aparece en el índice gereral.
+9. Y, last but not less, para mi hacer una web es lo obligado, pues imparto clases de Desarrollo Web.
 
 Y alguna más tendrá. Yo ya no uso otra cosa para hacer documentos personales porque es muy ligero y puedo exportarlo a otros muchos formatos incluido pdf y word.
 
